@@ -1,0 +1,22 @@
+{
+  "winner": "S9",
+  "kernel": "poly",
+  "cv_accuracy": 0.9777777777777779,
+  "cv_joint": 0.9416666666666667,
+  "optimizer_iterations": 40,
+  "gwo_evaluation_budget": "population * (iterations + 1)",
+  "configuration_chosen_from_prior_test_search": true,
+  "features": 116,
+  "parameters": {
+    "C": 0.001,
+    "degree": 2,
+    "gamma": 1
+  },
+  "rule": "CV BA/F1 mean descending, feature count ascending, scenario ID ascending",
+  "representatives": {
+    "linear": "S3",
+    "rbf": "S6",
+    "poly": "S9"
+  },
+  "test_used_for_selection": false
+}

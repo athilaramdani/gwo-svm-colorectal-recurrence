@@ -1,0 +1,21 @@
+{
+  "experiment": "E20 single stratified sample split, all nine GWO scenarios",
+  "paper_title": "Grey Wolf Optimizer-Based Gene Selection with Support Vector Machines for Predicting Postoperative Metastatic Recurrence in Colorectal Cancer",
+  "paper_id": "1571354843",
+  "original_run": "20260913_172908_179319/ratio_70_seed_42",
+  "original_script_sha256": "8b7aa0ae27e02b013d289396e4636e85340430a15efcf1535ecec0467a5e56c9",
+  "input_file": "GSE21510_recurrence_top2000.csv",
+  "input_sha256": "3c7793dab9ad9e7b4f233e9f10db85e8660657d027c2f10ba15819230aa99d0b",
+  "publication_script_changes": [
+    "Portable --data and --output arguments replace project-specific paths.",
+    "Notebook regenerated from the portable script with empty outputs.",
+    "Matplotlib PDF font embedding set to TrueType (pdf.fonttype=42).",
+    "An obsolete reference to another experiment was removed from a comment."
+  ],
+  "saved_output_changes": [
+    "Only the source path in leakage_audit.json was made relative.",
+    "Paper-format figures copied from conference4; numerical reports copied from the original E20 run."
+  ],
+  "protocol_changed": false,
+  "original_environment_lock_available": false
+}

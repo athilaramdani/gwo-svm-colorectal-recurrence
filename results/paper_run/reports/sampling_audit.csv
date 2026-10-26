@@ -1,0 +1,25 @@
+Model,Mode,Original train rows,Resampled train rows,No recurrence,Recurrence,Untouched test rows
+Baseline_linear,default,84,130,65,65,37
+Baseline_linear,tuned,84,130,65,65,37
+Baseline_rbf,default,84,130,65,65,37
+Baseline_rbf,tuned,84,130,65,65,37
+Baseline_poly,default,84,130,65,65,37
+Baseline_poly,tuned,84,130,65,65,37
+S1,default,84,130,65,65,37
+S1,tuned,84,130,65,65,37
+S2,default,84,130,65,65,37
+S2,tuned,84,130,65,65,37
+S3,default,84,130,65,65,37
+S3,tuned,84,130,65,65,37
+S4,default,84,130,65,65,37
+S4,tuned,84,130,65,65,37
+S5,default,84,130,65,65,37
+S5,tuned,84,130,65,65,37
+S6,default,84,130,65,65,37
+S6,tuned,84,130,65,65,37
+S7,default,84,130,65,65,37
+S7,tuned,84,130,65,65,37
+S8,default,84,130,65,65,37
+S8,tuned,84,130,65,65,37
+S9,default,84,130,65,65,37
+S9,tuned,84,130,65,65,37
